@@ -3,6 +3,8 @@
 <h2>Features</h2>
 
 ```html
+-MVC
+-Protocol and Delegates
 -Programmatically UI
 -No 3rd Party Libraries
 -Memory Management
