@@ -14,6 +14,7 @@
 -Diffable Data Source
 -Composition and Child VC's
 -Dynamic Type
+-Dark mode also available for entire app.
 
 ```
 
