@@ -1,13 +1,20 @@
 # GitHubFollowers
 
-
-
-
-<h2>Database</h2>
+<h2>Features</h2>
 
 ```html
--API
--Firebase
+-Programmatically UI
+-No 3rd Party Libraries
+-Memory Management
+-Image caching
+-Pagination of Network Call
+-Empty State View
+-Custom Reusable Alert
+-CollectionView and SearchControll
+-Diffable Data Source
+-Composition and Child VC's
+-Dynamic Type
+
 ```
 
 
