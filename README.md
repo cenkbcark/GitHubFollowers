@@ -1,0 +1,19 @@
+# GitHubFollowers
+
+
+
+
+<h2>Database</h2>
+
+```html
+-API
+-Firebase
+```
+
+
+<h2>Demo and Screen Shoots</h2>
+
+![LightMockup](https://user-images.githubusercontent.com/79763515/203184292-37ef92fa-4af7-4c27-80ef-4069a2d6f148.png)
+![DarkMockup](https://user-images.githubusercontent.com/79763515/203184301-0eba9f0b-c593-4a53-ba6e-608cad0327ef.png)
+![TrailerLight](https://user-images.githubusercontent.com/79763515/203184306-b48eac96-c986-4a44-b2ca-946f0eac6588.png)
+![TrailerDark](https://user-images.githubusercontent.com/79763515/203184316-1de0dc27-ec64-437d-aaf3-649bcc62f4b6.png)
